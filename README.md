@@ -19,7 +19,7 @@ This project focuses on evaluating the performance of the **Enhanced Interior Ga
 - **Platform:** Windows/Linux
 
 ## 🙋‍♀️ Author
-- **Usman Bashir Sani
-- **Email: digitallyahead1@gmail.com, usmanbashirsani@gmail.com
-- **LinkedIn: https://www.linkedin.com/in/usman-bashir-sani-334768220?trk=contact-info
-- **GitHub: https://github.com/digitallyahead1
+- Usman Bashir Sani
+- Email: digitallyahead1@gmail.com, usmanbashirsani@gmail.com
+- LinkedIn: https://www.linkedin.com/in/usman-bashir-sani-334768220?trk=contact-info
+- GitHub: https://github.com/digitallyahead1
